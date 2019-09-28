@@ -1,0 +1,7 @@
+User(Browser):abc/products => Frontend (ReactJS) => Backend (Node, PHP, Java, ASP) => JSON => Frontend (ReactJS)
+
+
+Voi bai nay
+User(Browser) => Web (ReactJS) => Spotify
+query:thu minh => url search => Spotify
+	       <= JSON	     <=	
